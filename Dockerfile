@@ -2,9 +2,9 @@ FROM node:20-alpine
 
 RUN apk add --no-cache git
 
-RUN git clone https://github.com/<HUDDYistheGOAT69>/<Learningisfun>.git
+RUN git clone https://github.com/HUDDYistheGOAT69/Learningisfun.git
 
-WORKDIR /<Learningisfun>
+WORKDIR /Learningisfun
 
 RUN npm install
 
