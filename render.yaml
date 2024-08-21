@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: <ilovelearning>
+    name: Ilovelearning
     env: docker
     plan: free
